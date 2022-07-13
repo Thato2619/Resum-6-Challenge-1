@@ -74,6 +74,6 @@ footer{
 .qualifications{
     padding: 100px;
 }
- #qualificationList{
+ .qualificationList{
      list-style: circle;
  }
